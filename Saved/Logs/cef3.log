@@ -1,0 +1,34 @@
+[9716:5612:0120/193743.326:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[9716:13768:0120/193743.359:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[9716:5612:0120/193743.375:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[9716:5612:0120/193745.511:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[5644:10788:0120/193746.143:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-0DC0524926BB1C098DEC7EBD53D47689 will be ignored
+[9716:3644:0120/193746.631:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
+[9716:5612:0120/193746.824:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[9716:5612:0120/193746.824:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[9716:5612:0120/193746.824:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[9716:5612:0120/193746.824:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[9716:3644:0120/193746.829:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[11316:14400:0120/193955.055:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[11316:14400:0120/193955.056:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[12692:5344:0120/202714.030:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[12692:5344:0120/205548.148:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[12692:5344:0120/210350.978:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[12692:5344:0120/210905.080:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[12692:5344:0120/211201.816:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[12692:5344:0120/211734.095:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[12692:5344:0120/212317.864:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[12692:5344:0120/215616.237:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[12692:5344:0120/221825.582:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[12692:5344:0120/221830.595:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[12692:5344:0120/222354.409:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[12692:5344:0120/222359.421:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[12692:5344:0120/222623.522:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[12692:5344:0120/222916.699:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[12692:5344:0120/222921.713:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[12692:5344:0120/223504.786:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[12692:5344:0120/223509.800:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[12692:5344:0120/223740.708:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[12692:5344:0120/224038.558:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[12692:5344:0120/225127.698:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[9716:5612:0121/142132.852:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
